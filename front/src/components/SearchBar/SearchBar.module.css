@@ -1,0 +1,28 @@
+.searchBarContainer {
+/* Estilos para el contenedor principal */
+display: flex;
+justify-content: right;
+align-items: center;
+padding: 16px;
+     
+}
+
+.searchInput {
+/* Estilos para el campo de búsqueda */
+padding: 8px;
+border: 3px solid #A7CB54;
+border-radius:20px;
+margin-right: 8px;    
+}
+
+.searchButton {
+/* Estilos para el botón de búsqueda */   
+padding: 8px 16px;
+background-color: rgb(18, 199, 199);
+color: #ccc;
+border: none;
+border-radius: 10px;
+cursor: pointer; 
+}
+
+

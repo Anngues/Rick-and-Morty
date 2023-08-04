@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+ 
+}
+
+.favoriteCard {
+    width: 200px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.filterContainer {
+    margin-bottom: 10px;
+    color: white;
+}
+
+.titulo {
+    color: white;
+}
+
